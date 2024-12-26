@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/8478e3e0-8e06-4529-9543-33f045895de6/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/tltnwebthoitrang",
+    "appService.deploySubpath": "."
+}
